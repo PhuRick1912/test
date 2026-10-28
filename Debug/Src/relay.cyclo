@@ -1,0 +1,2 @@
+../Src/relay.c:6:6:relay_driver_init	1
+../Src/relay.c:17:6:relay_set_state	4

@@ -1,0 +1,14 @@
+../Src/spi1_lcd_st7789.c:26:6:spi1_gpio_init	4	static
+../Src/spi1_lcd_st7789.c:53:6:spi1_config	4	static
+../Src/spi1_lcd_st7789.c:68:6:spi1_dma_init	4	static
+../Src/spi1_lcd_st7789.c:84:6:spi1_dma_transmit	16	static
+../Src/spi1_lcd_st7789.c:104:6:spi1_dma_wait_complete	4	static
+../Src/spi1_lcd_st7789.c:113:13:Delay_ms	24	static
+../Src/spi1_lcd_st7789.c:119:13:SPI_SendByte	16	static
+../Src/spi1_lcd_st7789.c:126:6:ST7789_SendCommand	16	static
+../Src/spi1_lcd_st7789.c:133:6:ST7789_SendData	16	static
+../Src/spi1_lcd_st7789.c:140:6:ST7789_Init	8	static
+../Src/spi1_lcd_st7789.c:175:6:ST7789_SetWindow	24	static
+../Src/spi1_lcd_st7789.c:193:6:ST7789_FillColor	4824	static
+../Src/spi1_lcd_st7789.c:217:6:ST7789_TestRedSquare50x50	120	static
+../Src/spi1_lcd_st7789.c:244:6:ST7789_DrawImage	40	static
